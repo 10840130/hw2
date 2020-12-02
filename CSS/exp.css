@@ -1,0 +1,25 @@
+.expphoto {
+  width: 400px;
+  height: 300px;
+}
+
+.tpart,
+.dpart {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.work1,
+.work2,
+.work3,
+.work4 {
+  margin: 20px auto;
+}
+
+.work3,
+.work4 {
+  margin-bottom: 60px;
+}
